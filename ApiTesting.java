@@ -1,3 +1,7 @@
+// Learning some thing here im not sure is this considered it
+
+
+
 class ApiProtected {
     private int how;
     public ApiProtected(int how) {
@@ -24,3 +28,4 @@ public class ApiTesting {
         trys.showHow();
     }
 }
+
